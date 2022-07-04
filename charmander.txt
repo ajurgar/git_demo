@@ -1,2 +1,4 @@
 flamethrower
 ember
+quick attack
+
